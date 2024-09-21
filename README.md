@@ -1,2 +1,3 @@
-# 0-web-book-market
-Project files for DJU-WEB (Book Market JSP website).
+# 3-directives-actions
+
+3주차 실습 파일
